@@ -94,7 +94,7 @@ Go back to the resource groups page and make sure the new resource group is ther
 <br />
 
 <p>
-<img src="https://i.imgur.com/NFs2IEf.png"/>
+<img src="https://i.imgur.com/b236sDC.png"/>
 </p>
 <p>
 Search for storage accounts in the searchbar and click on it in the services section, it should be the first item in the search result. Once you get to the page, hit the blue "create storage account" button.
