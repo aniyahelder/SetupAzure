@@ -126,7 +126,7 @@ Once you are in the storage account, click on containers.
 <br />
 
 <p>
-<img src="https://i.imgur.com/fxeNC54.png"/>
+<img src="https://i.imgur.com/U1u3H6v.png"/>
 </p>
 <p>
 Now create a new container, name it, and hit create.
