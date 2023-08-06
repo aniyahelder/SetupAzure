@@ -86,7 +86,7 @@ On this page just make sure the information about the resource group is correct 
 <br />
 
 <p>
-<img src="https://i.imgur.com/UqDWIKU.png"/>
+<img src="https://i.imgur.com/C9ZsZJ1.png"/>
 </p>
 <p>
 Go back to the resource groups page and make sure the new resource group is there, you can get back to the page by searching for it again in the searchbar. Next we are going to test out this new resource group by adding an Azure Storage Account (it is basically like a robust google drive or dropbox).
