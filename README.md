@@ -158,7 +158,7 @@ Click the upload button and you can just drag and drop the file from your deskto
 <br />
 
 <p>
-<img src="https://i.imgur.com/hFmiqT7.png"/>
+<img src= "https://i.imgur.com/hFmiqT7.png"/>
 </p>
 <p>
 Now that you have uploaded the file, you can edit, download it to your computer, or do whatever you want with it.
