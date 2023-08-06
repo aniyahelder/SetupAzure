@@ -173,7 +173,7 @@ That just about concludes this tutorial/lab, for the final step we are now going
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZttsXKR.png"/>
+<img src="https://i.imgur.com/Ri159YR.png"/>
 </p>
 <p>
 To delete the resource group, just go back to the resource groups page, click on the resource group, click delete resource group, and type/copy paste the resource group's name to confirm, and then click delete.
