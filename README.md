@@ -142,7 +142,7 @@ Now click on the new container you just made, and we are going to upload a basic
 <br />
 
 <p>
-<img src="https://i.imgur.com/ysuSi5q.jpg"/>
+<img src="https://i.imgur.com/gk6DGtW.png?1"/>
 </p>
 <p>
 Just make a new text document on your desktop, then name it and write what ever you want in it.
