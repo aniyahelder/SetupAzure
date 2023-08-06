@@ -62,7 +62,7 @@ To get to the resource group page, simply search for it in the portal searchbar.
 <br />
 
 <p>
-<img src="https://i.imgur.com/MIw01SI.png"/>
+<img src="https://i.imgur.com/0ZfOegN.png"/>
 </p>
 <p>
 Now lets start configuring our new resource group. Since you probably only have that one subscription, you probably won't need to touch that drop down menu, just make sure it's selected. For the group name I just named it "RG-Lab-1", but you can name it what ever you want. And you will probably want to set the region to your own region, select the region you want from the drop down menu. Hit the "Next: Tags >" button on the bottom left.
