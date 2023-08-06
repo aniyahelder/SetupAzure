@@ -110,7 +110,7 @@ Now select the subscription and resource group we just made in the first two dro
 <br />
 
 <p>
-<img src="https://i.imgur.com/PutNYrh.png"/>
+<img src="https://i.imgur.com/0lryppU.png"/>
 </p>
 <p>
 Wait for it to complete deployment and hit "Go to resource".
