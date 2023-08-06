@@ -118,7 +118,7 @@ Wait for it to complete deployment and hit "Go to resource".
 <br />
 
 <p>
-<img src="https://i.imgur.com/hvoA7vJ.png"/>
+<img src="https://i.imgur.com/sBXvcru.png"/>
 </p>
 <p>
 Once you are in the storage account, click on containers.
