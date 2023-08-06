@@ -150,7 +150,7 @@ Just make a new text document on your desktop, then name it and write what ever 
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZuQHKzS.png"/>
+<img scr= "https://i.imgur.com/hFmiqT7.png"/>
 </p>
 <p>
 Click the upload button and you can just drag and drop the file from your desktop or you can search for it in file explorer, and then upload it!
