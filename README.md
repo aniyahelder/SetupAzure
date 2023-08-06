@@ -70,7 +70,7 @@ Now lets start configuring our new resource group. Since you probably only have 
 <br />
 
 <p>
-<img src="https://i.imgur.com/RH8d7Yt.png"/>
+<img src="https://i.imgur.com/L3horVB.png"/>
 </p>
 <p>
 On this page you can assign tags to the resource group. Skip this as you don't have to assign any tags, but this is just for organizations to keep track of data pertaining to certain resources. Hit the "Next : Review + create >" button.
