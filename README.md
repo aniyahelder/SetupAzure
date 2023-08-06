@@ -102,7 +102,7 @@ Search for storage accounts in the searchbar and click on it in the services sec
 <br />
 
 <p>
-<img src="https://i.imgur.com/dLDQe5a.png"/>
+<img src="https://i.imgur.com/LWQaxe6.png"/>
 </p>
 <p>
 Now select the subscription and resource group we just made in the first two drop down menus. Then create the name for your storage account, it needs to be globally unique. Now hit the blue review button in the bottom left, you might need to wait a minute for it to run final validation and then hit create!
