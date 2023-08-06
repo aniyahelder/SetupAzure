@@ -45,7 +45,7 @@ After your account setup and confirmation is complete (which may take a minute),
 <br />
 
 <p>
-<img src="https://i.imgur.com/ChmLLLV.png"/>
+<img src="https://i.imgur.com/52vnb8X.png"/>
 </p>
 <p>
 Once you get to the portal home page, type "subscriptions" in the search bar to make sure that your subscription is active and identify it.
