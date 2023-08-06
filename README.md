@@ -78,7 +78,7 @@ On this page you can assign tags to the resource group. Skip this as you don't h
 <br />
 
 <p>
-<img src="https://i.imgur.com/FIyOpk5.png"/>
+<img src="https://i.imgur.com/1U7zYu6.png"/>
 </p>
 <p>
 On this page just make sure the information about the resource group is correct and hit create.
