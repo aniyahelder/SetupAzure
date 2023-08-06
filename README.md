@@ -54,7 +54,7 @@ In the next step, we are going to make our first resource group.
 <br />
 
 <p>
-<img src="https://i.imgur.com/GgFY7AJ.png"/>
+<img src="https://imgur.com/lDJz1Wy"/>
 </p>
 <p>
 To get to the resource group page, simply search for it in the portal searchbar. Next, hit the blue "Create resource group" button.
