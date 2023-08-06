@@ -134,7 +134,7 @@ Now create a new container, name it, and hit create.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DYJvYB6.png"/>
+<img src="https://i.imgur.com/brHbkaR.png"/>
 </p>
 <p>
 Now click on the new container you just made, and we are going to upload a basic text file into the container.
